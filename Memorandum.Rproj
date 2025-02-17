@@ -1,0 +1,16 @@
+Version: 1.0
+ProjectId: 5e2c47cb-fcf9-4c17-89bd-2c1a68719cc1
+
+RestoreWorkspace: Default
+SaveWorkspace: Default
+AlwaysSaveHistory: Default
+
+EnableCodeIndexing: Yes
+UseSpacesForTab: Yes
+NumSpacesForTab: 2
+Encoding: UTF-8
+
+RnwWeave: Sweave
+LaTeX: pdfLaTeX
+
+ProjectName: Memorandum
